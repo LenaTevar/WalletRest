@@ -10,14 +10,5 @@ Rest wallet
 
 Check the pom for more info. 
 
-
-### Properties
-
-spring.h2.console.enabled=true
-
-spring.datasource.platform=h2
-
-spring.datasource.url=jdbc:h2:~/Wally
-
-
-spring.jpa.hibernate.ddl-auto=update
+### API
+Go to your localhost:8080 and the webpage will show you the api and how to use it. 
